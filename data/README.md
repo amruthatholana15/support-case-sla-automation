@@ -161,7 +161,6 @@ During development, several practical automation challenges were addressed:
 
 ![Teams SLA Summary](../screenshots/Microsoft%20Teams%20SLA%20Summary-overview.png)
 
-
 ## Key Learning
 
 This project demonstrates how business rules can be translated into an automated operational workflow.
