@@ -160,7 +160,7 @@ During development, several practical automation challenges were addressed:
 ### Microsoft Teams SLA Summary
 
 ![Teams SLA Summary](screenshots/teams-sla-breach-summary.png.png)
----
+
 
 ## Key Learning
 
