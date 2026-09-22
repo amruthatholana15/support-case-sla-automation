@@ -155,12 +155,11 @@ During development, several practical automation challenges were addressed:
 
 ### Optimized Power Automate Workflow
 
-![Power Automate Flow](screenshots/power-automate-flow-overview.png)
+![Power Automate Flow](screenshots/power-automate-flow-overview.png.png)
 
 ### Microsoft Teams SLA Summary
 
-![Teams SLA Summary](screenshots/teams-sla-breach-summary.png)
-
+![Teams SLA Summary](screenshots/teams-sla-breach-summary.png.png)
 ---
 
 ## Key Learning
